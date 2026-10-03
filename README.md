@@ -1,9 +1,8 @@
 <div align="center">
-<!-- Animated heading: replace the text in the URL if you want different phrases. -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+Jordan's+Labs;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+ideas+into+real+projects;Code+that+helps+the+planet" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+Jordan%27s+Labs;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+ideas+into+real+projects;Code+that+helps+the+planet" alt="Animated introduction" />
 <br/>
-`jordanslabs`
-Information Technology Student · Aspiring Software Engineer
+`jordanslabs`  
+Information Technology Student · Aspiring Software Engineer  
 Building ideas into reality, one project at a time.
 <br/>
 ![GitHub](https://img.shields.io/badge/GitHub-jordanslabs-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8)
@@ -11,6 +10,7 @@ Building ideas into reality, one project at a time.
 ![Focus](https://img.shields.io/badge/Focus-Web_%7C_API_%7C_AI-0B1220?style=for-the-badge&logo=target&logoColor=38BDF8)
 </div>
 ---
+`// terminal`
 ```text
 ┌── jordan@labs ──────────────────────────────────┐
 │ $ whoami                                        │
@@ -69,8 +69,8 @@ Project	Description	Stack
 📦 Eco Track Supply API	Supply tracking project with a responsive mobile layout.	React · TypeScript · Tailwind
 `// github-activity`
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jordanslabs&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub statistics for jordanslabs" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanslabs&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages for jordanslabs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jordanslabs&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub statistics for jordanslabs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanslabs&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages for jordanslabs" />
 </div>
 `// currently`
 ```bash
