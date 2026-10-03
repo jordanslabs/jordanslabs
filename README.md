@@ -1,86 +1,154 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+Jordan%27s+Labs;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+ideas+into+real+projects;Code+that+helps+the+planet" alt="Animated introduction" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0EA5E9,100:38BDF8&height=200&section=header&text=Jo's%20Labs&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20that%20helps%20the%20planet&descSize=18&descAlignY=58" alt="Jo's Labs banner" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jo+%F0%9F%91%8B;Software+Engineering+Student+%40+UTU;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+ideas+into+real+projects;Code+that+helps+the+planet+%F0%9F%8C%8D" alt="Typing intro" />
+
 <br/>
-`jordanslabs`  
-Information Technology Student · Aspiring Software Engineer  
-Building ideas into reality, one project at a time.
-<br/>
+
 ![GitHub](https://img.shields.io/badge/GitHub-jordanslabs-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8)
 ![University](https://img.shields.io/badge/Universitas_Teuku_Umar-0B1220?style=for-the-badge&logo=googlescholar&logoColor=38BDF8)
-![Focus](https://img.shields.io/badge/Focus-Web_%7C_API_%7C_AI-0B1220?style=for-the-badge&logo=target&logoColor=38BDF8)
+![Semester](https://img.shields.io/badge/Semester-5-0B1220?style=for-the-badge&logo=bookstack&logoColor=38BDF8)
+![Focus](https://img.shields.io/badge/Focus-Fullstack_%7C_API_%7C_AI-0B1220?style=for-the-badge&logo=target&logoColor=38BDF8)
+
 </div>
+
 ---
-`// terminal`
+
+## 🖥️ `~/terminal`
+
 ```text
-┌── jordan@labs ──────────────────────────────────┐
-│ $ whoami                                        │
-│ Information Technology student @ UTU            │
-│                                                 │
-│ $ current-focus                                 │
-│ Web development · REST APIs · Python            │
-│ Practical AI / ML · Tech for sustainability     │
-│                                                 │
-│ $ mindset                                       │
-│ Learn by building. Improve with every commit.   │
-└─────────────────────────────────────────────────┘
+┌── jo@labs ─────────────────────────────────────────┐
+│ $ whoami                                           │
+│ Jo · 20 y/o · Informatics Engineering (Sem. 5)     │
+│ Software Engineering track @ Universitas Teuku Umar│
+│                                                    │
+│ $ current-focus                                    │
+│ Fullstack (React + Express) · Python · Java OOP    │
+│ Practical AI/ML · Tech for sustainability          │
+│                                                    │
+│ $ next-destination                                 │
+│ RECONSA 2026 delegate → Master's in DE / ES        │
+│                                                    │
+│ $ mindset                                          │
+│ Learn by building. Improve with every commit.      │
+└────────────────────────────────────────────────────┘
 ```
-`// about-me`
-🎓 Studying Information Technology at Universitas Teuku Umar (UTU).
-💻 Learning through hands-on software projects, from idea to deployment.
-🌿 Interested in using technology for environmental and community impact.
-🔌 Exploring backend development and API design.
-🐍 Curious about Python and practical AI/ML.
-🤝 Active in the student community through HIMATIF-FT UTU.
-`// tools-in-my-workbench`
-Technologies I've worked with or am currently learning. This list will grow as I build more projects.
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-</p>
-`// featured-project`
-🌱 Mangrovise
-> An online store where every purchase helps restore mangrove ecosystems.
-Mangrovise is a mangrove-based e-commerce platform built around three ideas:
-Pillar	What it means
-🛒 Buy	Browse and purchase mangrove-based products from a clean, responsive online store.
-🌍 Impact	See the environmental impact of each purchase through a built-in impact calculator.
-🌳 Restore	Turn purchases into real restoration efforts for mangrove ecosystems.
-Highlights
-Impact calculator that shows what each order contributes environmentally.
-Product reviews with photos.
-Educational content about mangroves and coastal conservation.
-Built for an international UTU Award competition.
-🔗 Live: mangrovise.store
-`// other-projects`
-Project	Description	Stack
-🌾 AgriSense AI	ML-based platform concept for monitoring rice production.	Python · ML
-🐄 SIMOSAPI	Cattle management system built for an OOP course.	Java Swing · MySQL
-🌸 House Blooms	E-commerce website for a flower shop.	React.js
-📦 Eco Track Supply API	Supply tracking project with a responsive mobile layout.	React · TypeScript · Tailwind
-`// github-activity`
+
+---
+
+## 👨‍💻 `~/about-me`
+
+| | |
+|---|---|
+| 🎓 **Academics** | 5th-semester Informatics Engineering student at **Universitas Teuku Umar (UTU)**, specializing in Software Engineering |
+| 🌏 **Mission** | Preparing as a delegate for **RECONSA 2026** (SDG 11: Sustainable Cities & Communities) |
+| ✈️ **Next level** | Aiming for a Master's degree in **Germany or Spain** |
+| 💻 **Development** | Learning through hands-on fullstack projects: APIs with Node.js/Express, UIs with React, OOP with Java |
+| 🐧 **Environment** | Comfortable in Linux (**Ubuntu & Fedora**) and testing endpoints with Postman |
+| 🌿 **Impact** | Using tech for environmental and community good, especially empowering local **UMKM** |
+| 🏋️ **Beyond code** | Gym (never skipping leg day), hybrid running, and unwinding with books like Tere Liye's *Hujan* |
+
+---
+
+## 🧰 `~/tools-in-my-workbench`
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jordanslabs&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub statistics for jordanslabs" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanslabs&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages for jordanslabs" />
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,java,mysql,git,github,linux,ubuntu,fedora,postman,vercel,vscode&theme=dark" alt="Tech stack icons" />
+
 </div>
-`// currently`
+
+| Layer | Tools |
+|---|---|
+| 🎨 **Frontend** | React · JavaScript · HTML/CSS |
+| ⚙️ **Backend** | Node.js · Express.js · REST APIs |
+| 🧠 **AI / Data** | Python · Machine Learning (learning in public) |
+| ☕ **OOP** | Java · MySQL |
+| 🚀 **DevOps & Workflow** | Git · GitHub · Vercel · Postman · Linux |
+
+---
+
+## 🌱 `~/featured-project`
+
+### 🥥 Mangrovise
+> An e-commerce platform that empowers **Kuala Langsa UMKM** while restoring mangrove ecosystems.
+
+| Pillar | What it means |
+|---|---|
+| 🛒 **Buy** | Browse and purchase mangrove-based products from a clean, responsive online store |
+| 🌍 **Impact** | See the environmental impact of every purchase through a built-in impact calculator |
+| 🌳 **Restore** | Turn purchases into real restoration efforts for coastal conservation |
+
+```mermaid
+flowchart LR
+    A[🛒 Customer buys<br/>mangrove product] --> B[📊 Impact calculator<br/>shows CO₂ saved]
+    B --> C[🌳 Funds mangrove<br/>restoration]
+    C --> D[🏘️ UMKM Kuala Langsa<br/>grows]
+    D --> A
+```
+
+---
+
+## 🚀 `~/other-projects`
+
+| Project | Description | Stack |
+|---|---|---|
+| 🌾 **AgriSense AI** | ML-based proposal to optimize the rice production cycle, supporting national food self-sufficiency | `Python` `ML` |
+| 🐄 **SIMOSAPI** | Medical management and vaccination scheduling system for cattle, built for an OOP course | `Java` `MySQL` |
+| 📦 **Eco-Track Gateway** | Supply-tracking REST API server, deployed on Vercel | `Express.js` `Node.js` |
+| 🔐 **Emergency Digital Consent** | Blockchain-based emergency consent system concept for student competitions | `Blockchain` |
+
+---
+
+## 🗺️ `~/quest-log`
+
+- [x] Build first fullstack project (React + Express)
+- [x] Ship a REST API to production on Vercel
+- [x] Design an impact-driven e-commerce platform
+- [ ] Represent at **RECONSA 2026** 🌏
+- [ ] Level up AI/ML skills with real datasets
+- [ ] Apply for a Master's in **Germany / Spain** 🎓
+- [ ] Hit a new PR on leg day 🦵
+
+---
+
+## 📊 `~/github-activity`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jordanslabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanslabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanslabs&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🔄 `~/currently`
+
 ```bash
 while learning; do
   build_something
   learn_from_it
   improve_the_next_version
+  # gym break: leg day 🦵
 done
 ```
+
+---
+
 <div align="center">
-Thanks for stopping by. More experiments coming soon.
-<sub>Dark mode · Neon blue · Always learning</sub>
+
+### 🤝 Let's build something together
+
+[![GitHub](https://img.shields.io/badge/Follow-jordanslabs-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/jordanslabs)
+
+<sub>⭐ If something here helped you, drop a star. It keeps the lab lights on.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0B1220&height=100&section=footer" alt="Footer wave" width="100%" />
+
 </div>
