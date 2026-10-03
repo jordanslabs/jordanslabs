@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0EA5E9,100:38BDF8&height=200&section=header&text=Jo's%20Labs&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20that%20helps%20the%20planet&descSize=18&descAlignY=58" alt="Jo's Labs banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0EA5E9,100:38BDF8&height=200&section=header&text=Jordans's%20Labs&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20that%20helps%20the%20planet&descSize=18&descAlignY=58" alt="Jordan's Labs banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jo+%F0%9F%91%8B;Software+Engineering+Student+%40+UTU;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+ideas+into+real+projects;Code+that+helps+the+planet+%F0%9F%8C%8D" alt="Typing intro" />
 
